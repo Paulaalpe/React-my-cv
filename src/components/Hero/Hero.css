@@ -1,0 +1,27 @@
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .card {
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    border-radius: 12px;
+    background-color: rgba(240, 248, 255, 0.241);
+    line-height: 5px;
+  }
+  img {
+    width: 150px;
+    margin: 20px;
+    border-radius: 20px;
+  }
+  h2 {
+    color: #6f66a5;
+    text-shadow: 2px 2px rgba(240, 248, 255, 0.241);
+    margin-bottom: 50px;
+  }
+  a {
+    color: #6b64b4;
+    text-decoration: none;
+  }
